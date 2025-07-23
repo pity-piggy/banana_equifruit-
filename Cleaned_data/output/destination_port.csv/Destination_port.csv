@@ -1,0 +1,16 @@
+port_id,name,country,code,air,ocean,rail,road,mail
+1,Calgary,Canada,CAL,No,No,No,Yes,No
+2,Guayaquil,Ecuador,GYE,Yes,Yes,No,No,Yes
+3,Gulf Port,United States,USGPT,No,Yes,No,No,No
+4,Houston,United States,HO,No,Yes,Yes,No,No
+5,Hueneme,United States,HUE,No,Yes,No,No,No
+6,Montreal,Canada,MTR,No,Yes,No,Yes,No
+7,Philadelphia,United States,PHL,Yes,Yes,No,No,Yes
+8,Port Hueneme,United States,NTD,Yes,Yes,Yes,Yes,No
+9,Port of Halifax,Canada,HAL,No,Yes,No,No,No
+10,Port of Wilmington,United States,ILG,No,Yes,No,No,No
+11,Puerto Bolivar,Ecuador,PBO,No,Yes,No,No,No
+12,San Diego,United States,SDG,No,Yes,No,No,No
+13,Santa Marta,Colombia,SMR,Yes,Yes,No,No,No
+14,Seattle,United States,SEA,No,No,No,Yes,No
+15,Toronto,Canada,TOR,Yes,Yes,No,Yes,Yes

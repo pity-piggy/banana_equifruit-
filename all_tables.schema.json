@@ -1,0 +1,1190 @@
+{
+    "cleaned_Shipment list": {
+        "row_count": 2763,
+        "column_count": 85,
+        "columns": [
+            {
+                "name": "Status",
+                "type": "string",
+                "description": "",
+                "example": "Received"
+            },
+            {
+                "name": "Type",
+                "type": "string",
+                "description": "",
+                "example": "Ocean"
+            },
+            {
+                "name": "Waybill Number",
+                "type": "string",
+                "description": "",
+                "example": "DOLQSMRD4772WL"
+            },
+            {
+                "name": "Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "Shipper",
+                "type": "string",
+                "description": "",
+                "example": "C.I. AGRICOLAS LAS FLORES S.A.S."
+            },
+            {
+                "name": "Consignee",
+                "type": "string",
+                "description": "",
+                "example": "United Safety Agents"
+            },
+            {
+                "name": "Carrier",
+                "type": "string",
+                "description": "",
+                "example": "Dole Shipping"
+            },
+            {
+                "name": "Origin Port",
+                "type": "string",
+                "description": "",
+                "example": "Port of Wilmington"
+            },
+            {
+                "name": "Destination Port",
+                "type": "string",
+                "description": "",
+                "example": "Port of Wilmington"
+            },
+            {
+                "name": "Pieces",
+                "type": "integer",
+                "description": "",
+                "example": 1
+            },
+            {
+                "name": "Weight (lb)",
+                "type": "string",
+                "description": "",
+                "example": "3,747.86"
+            },
+            {
+                "name": "Volume (ft³)",
+                "type": "string",
+                "description": "",
+                "example": "2,359.59"
+            },
+            {
+                "name": "Name",
+                "type": "string",
+                "description": "",
+                "example": "4595"
+            },
+            {
+                "name": "Layout",
+                "type": "string",
+                "description": "",
+                "example": "Straight"
+            },
+            {
+                "name": "Departure Date",
+                "type": "string",
+                "description": "",
+                "example": "01/11/2025"
+            },
+            {
+                "name": "Arrival Date",
+                "type": "string",
+                "description": "",
+                "example": "01/19/2025"
+            },
+            {
+                "name": "System Creation Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "Intermediate/Broker",
+                "type": "string",
+                "description": "",
+                "example": "Gambles"
+            },
+            {
+                "name": "Executed Place",
+                "type": "string",
+                "description": "",
+                "example": "Montréal"
+            },
+            {
+                "name": "Executed By",
+                "type": "string",
+                "description": "",
+                "example": "Claudia Ramirez"
+            },
+            {
+                "name": "Booking #",
+                "type": "string",
+                "description": "",
+                "example": "SEAU914861994"
+            },
+            {
+                "name": "Forwarding Agent",
+                "type": "string",
+                "description": "",
+                "example": "DOLE SHIPPING EAST COAST"
+            },
+            {
+                "name": "Destination Agent",
+                "type": "string",
+                "description": "",
+                "example": "Equifruit, Inc."
+            },
+            {
+                "name": "Origin Country",
+                "type": "string",
+                "description": "",
+                "example": "United States"
+            },
+            {
+                "name": "Destination Country",
+                "type": "string",
+                "description": "",
+                "example": "United States"
+            },
+            {
+                "name": "Direction",
+                "type": "string",
+                "description": "",
+                "example": "Incoming"
+            },
+            {
+                "name": "Master Waybill",
+                "type": "string",
+                "description": "",
+                "example": "DOLQSMRD4772WL"
+            },
+            {
+                "name": "Is Liquidated",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Transactions Balance (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "General Order Date",
+                "type": "string",
+                "description": "",
+                "example": "01/25/2025"
+            },
+            {
+                "name": "Income (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Expense (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "19,579.82"
+            },
+            {
+                "name": "Profit (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "-19,579.82"
+            },
+            {
+                "name": "Cost PP. (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "19,579.82"
+            },
+            {
+                "name": "Cost Col. (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Inc. PP (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Consolidation Income (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Consolidation Expense (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "19,579.82"
+            },
+            {
+                "name": "Consolidation Profit (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "-19,579.82"
+            },
+            {
+                "name": "Consolidation Real Profit (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Folder",
+                "type": "string",
+                "description": "",
+                "example": "Incoming Shipments\\2025\\January"
+            },
+            {
+                "name": "Volume weight (Vlb)",
+                "type": "string",
+                "description": "",
+                "example": "24,562.48"
+            },
+            {
+                "name": "Chargeable Weight (lb)",
+                "type": "string",
+                "description": "",
+                "example": "24,562.48"
+            },
+            {
+                "name": "Value",
+                "type": "string",
+                "description": "",
+                "example": "19,579.82"
+            },
+            {
+                "name": "Description",
+                "type": "string",
+                "description": "",
+                "example": "Banano Cavendish Organico Fairtrade con banda"
+            },
+            {
+                "name": "Container Number",
+                "type": "string",
+                "description": "",
+                "example": "IKSU4001316"
+            },
+            {
+                "name": "Deliver To",
+                "type": "string",
+                "description": "",
+                "example": "United Safety Agents"
+            },
+            {
+                "name": "Modes of Transportation",
+                "type": "string",
+                "description": "",
+                "example": "Vessel, Containerized"
+            },
+            {
+                "name": "Has Transactions",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Vessel",
+                "type": "string",
+                "description": "",
+                "example": "Robin 2 -9399739"
+            },
+            {
+                "name": "Amount of Containers",
+                "type": "integer",
+                "description": "",
+                "example": 1
+            },
+            {
+                "name": "40' Containers",
+                "type": "integer",
+                "description": "",
+                "example": 1
+            },
+            {
+                "name": "45' Containers",
+                "type": "integer",
+                "description": "",
+                "example": 0
+            },
+            {
+                "name": "Commodities Description",
+                "type": "string",
+                "description": "",
+                "example": "Banano Cavendish Organico Fairtrade con banda; Banano Cavendish Organico Fairtrade con banda"
+            },
+            {
+                "name": "Last Event",
+                "type": "string",
+                "description": "",
+                "example": "Arrived at destination"
+            },
+            {
+                "name": "Place of Delivery",
+                "type": "string",
+                "description": "",
+                "example": "Montreal"
+            },
+            {
+                "name": "Importer",
+                "type": "string",
+                "description": "",
+                "example": "United Safety Agents"
+            },
+            {
+                "name": "Billing Client",
+                "type": "string",
+                "description": "",
+                "example": "Latbio S.A."
+            },
+            {
+                "name": "Shipper Address",
+                "type": "string",
+                "description": "",
+                "example": "Carrera 4ta #12-55 P 2, santa marta, 470006. Colombia"
+            },
+            {
+                "name": "Consignee Address",
+                "type": "string",
+                "description": "",
+                "example": "5311, boulevard de Maisonneuve ouest   Suite 304, Montréal, QC H4A 1Z5. Canada"
+            },
+            {
+                "name": "Notify Party Address",
+                "type": "string",
+                "description": "",
+                "example": "1500 Bd de Montarville, Boucherville, QC J4B 5Y3. Canada"
+            },
+            {
+                "name": "Forwarding Agent Address",
+                "type": "string",
+                "description": "",
+                "example": "1 Hausel Road, Wilmington, DE 19801. United States"
+            },
+            {
+                "name": "Destination Agent Address",
+                "type": "string",
+                "description": "",
+                "example": "5311, boulevard de Maisonneuve ouest   Suite 304, Montréal, QC H4A 1Z5. Canada"
+            },
+            {
+                "name": "Deliver To Address",
+                "type": "string",
+                "description": "",
+                "example": "5311, boulevard de Maisonneuve ouest   Suite 304, Montréal, QC H4A 1Z5. Canada"
+            },
+            {
+                "name": "Shipper Name & Address",
+                "type": "string",
+                "description": "",
+                "example": "C.I. AGRICOLAS LAS FLORES S.A.S.   Carrera 4ta #12-55 P 2, santa marta, 470006. Colombia"
+            },
+            {
+                "name": "Consignee Name & Address",
+                "type": "string",
+                "description": "",
+                "example": "United Safety Agents"
+            },
+            {
+                "name": "Warehouse Receipts",
+                "type": "string",
+                "description": "",
+                "example": "4595"
+            },
+            {
+                "name": "Temperature Setup",
+                "type": "number",
+                "description": "",
+                "example": 13.5
+            },
+            {
+                "name": "Generator Setup",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "TEU",
+                "type": "integer",
+                "description": "",
+                "example": 2
+            },
+            {
+                "name": "FEU",
+                "type": "number",
+                "description": "",
+                "example": 1.0
+            },
+            {
+                "name": "Shipper Name & Address & Phone",
+                "type": "string",
+                "description": "",
+                "example": "C.I. AGRICOLAS LAS FLORES S.A.S.   Carrera 4ta #12-55 P 2, santa marta, 470006. Colombia   3137453982"
+            },
+            {
+                "name": "Consignee Name & Address & Phone",
+                "type": "string",
+                "description": "",
+                "example": "United Safety Agents"
+            },
+            {
+                "name": "Dimensions",
+                "type": "string",
+                "description": "",
+                "example": "1x459.45x90.16x98.43in"
+            },
+            {
+                "name": "Cut Off Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "Spotting Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "Package",
+                "type": "string",
+                "description": "",
+                "example": "CNT"
+            },
+            {
+                "name": "House count",
+                "type": "integer",
+                "description": "",
+                "example": 0
+            },
+            {
+                "name": "On-Carriage by",
+                "type": "string",
+                "description": "",
+                "example": "Holt"
+            },
+            {
+                "name": "Documentation Cut-off Date",
+                "type": "string",
+                "description": "",
+                "example": "09/11/2023"
+            },
+            {
+                "name": "IT Date",
+                "type": "string",
+                "description": "",
+                "example": "07/19/2022"
+            },
+            {
+                "name": "Container Tracking",
+                "type": "string",
+                "description": "",
+                "example": "Yes"
+            },
+            {
+                "name": "ETA Update",
+                "type": "string",
+                "description": "",
+                "example": "Oct/05/2022 10:46:00"
+            },
+            {
+                "name": "Terminal",
+                "type": "string",
+                "description": "",
+                "example": "Gloucester"
+            },
+            {
+                "name": "x dock date",
+                "type": "string",
+                "description": "",
+                "example": "03/29/2022"
+            }
+        ]
+    },
+    "cleaned_Job List": {
+        "row_count": 2744,
+        "column_count": 13,
+        "columns": [
+            {
+                "name": "Status",
+                "type": "string",
+                "description": "",
+                "example": "Open"
+            },
+            {
+                "name": "Number",
+                "type": "string",
+                "description": "",
+                "example": "4637"
+            },
+            {
+                "name": "Supplier",
+                "type": "string",
+                "description": "",
+                "example": "Marplantis Organic Sustainable Agriculture"
+            },
+            {
+                "name": "Due Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "Customer",
+                "type": "string",
+                "description": "",
+                "example": "Chiovitti Banana Co., Ltd"
+            },
+            {
+                "name": "Income",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Expense",
+                "type": "string",
+                "description": "",
+                "example": "18,337.05"
+            },
+            {
+                "name": "Profit",
+                "type": "string",
+                "description": "",
+                "example": "-18,337.05"
+            },
+            {
+                "name": "Customer:Account Number",
+                "type": "string",
+                "description": "",
+                "example": "C00004"
+            },
+            {
+                "name": "Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "End Date",
+                "type": "string",
+                "description": "",
+                "example": "01/10/2025"
+            },
+            {
+                "name": "Employee",
+                "type": "string",
+                "description": "",
+                "example": "David Melo"
+            },
+            {
+                "name": "Progress (%)",
+                "type": "integer",
+                "description": "",
+                "example": 11
+            }
+        ]
+    },
+    "cleaned_Customer List": {
+        "row_count": 56,
+        "column_count": 29,
+        "columns": [
+            {
+                "name": "Account Number",
+                "type": "string",
+                "description": "",
+                "example": "C00006/005"
+            },
+            {
+                "name": "Name",
+                "type": "string",
+                "description": "",
+                "example": "Sprouts Farmers Market - Distribution Centers"
+            },
+            {
+                "name": "Street and Number",
+                "type": "string",
+                "description": "",
+                "example": "5445 West Missouri Ave"
+            },
+            {
+                "name": "City",
+                "type": "string",
+                "description": "",
+                "example": "Glendale"
+            },
+            {
+                "name": "State",
+                "type": "string",
+                "description": "",
+                "example": "AZ"
+            },
+            {
+                "name": "Country",
+                "type": "string",
+                "description": "",
+                "example": "United States"
+            },
+            {
+                "name": "Zip code",
+                "type": "string",
+                "description": "",
+                "example": "85301"
+            },
+            {
+                "name": "Phone",
+                "type": "string",
+                "description": "",
+                "example": "(416) 667-0518"
+            },
+            {
+                "name": "Email",
+                "type": "string",
+                "description": "",
+                "example": "AP@Sprouts.com"
+            },
+            {
+                "name": "Contact First Name",
+                "type": "string",
+                "description": "",
+                "example": "Yannick"
+            },
+            {
+                "name": "Street and Number 1",
+                "type": "string",
+                "description": "",
+                "example": "5445 West Missouri Ave"
+            },
+            {
+                "name": "Street and Number 2",
+                "type": "string",
+                "description": "",
+                "example": "415 West Hunt Club Road,"
+            },
+            {
+                "name": "Billing Street and Number",
+                "type": "string",
+                "description": "",
+                "example": "5445 West Missouri Ave"
+            },
+            {
+                "name": "Billing City",
+                "type": "string",
+                "description": "",
+                "example": "Glendale"
+            },
+            {
+                "name": "Billing State",
+                "type": "string",
+                "description": "",
+                "example": "AZ"
+            },
+            {
+                "name": "Billing Country",
+                "type": "string",
+                "description": "",
+                "example": "United States"
+            },
+            {
+                "name": "Billing Street and Number 1",
+                "type": "string",
+                "description": "",
+                "example": "5445 West Missouri Ave"
+            },
+            {
+                "name": "Billing Street and Number 2",
+                "type": "string",
+                "description": "",
+                "example": "415 West Hunt Club Road,"
+            },
+            {
+                "name": "Entity ID",
+                "type": "string",
+                "description": "",
+                "example": "SFMDC00098"
+            },
+            {
+                "name": "Inactive",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Has Transactions",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Creation Date",
+                "type": "string",
+                "description": "",
+                "example": "01/08/2025"
+            },
+            {
+                "name": "Has Open Transactions",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Prepaid",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Balance (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Due Days",
+                "type": "integer",
+                "description": "",
+                "example": 30
+            },
+            {
+                "name": "Payment Terms",
+                "type": "string",
+                "description": "",
+                "example": "Net 30"
+            },
+            {
+                "name": "Last Payment Amount (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Last Payment Date",
+                "type": "string",
+                "description": "",
+                "example": "12/09/2024"
+            }
+        ]
+    },
+    "cleaned_Forwarding Agent List": {
+        "row_count": 10,
+        "column_count": 14,
+        "columns": [
+            {
+                "name": "Name",
+                "type": "string",
+                "description": "",
+                "example": "PSA HALIFAX FAIRVIEW COVE"
+            },
+            {
+                "name": "Street and Number",
+                "type": "string",
+                "description": "",
+                "example": "6708 Bayne St"
+            },
+            {
+                "name": "City",
+                "type": "string",
+                "description": "",
+                "example": "Halifax"
+            },
+            {
+                "name": "State",
+                "type": "string",
+                "description": "",
+                "example": "NS"
+            },
+            {
+                "name": "Country",
+                "type": "string",
+                "description": "",
+                "example": "Canada"
+            },
+            {
+                "name": "Zip code",
+                "type": "string",
+                "description": "",
+                "example": "B3K 0H1"
+            },
+            {
+                "name": "Street and Number 1",
+                "type": "string",
+                "description": "",
+                "example": "6708 Bayne St"
+            },
+            {
+                "name": "Billing Street and Number",
+                "type": "string",
+                "description": "",
+                "example": "6708 Bayne St"
+            },
+            {
+                "name": "Billing City",
+                "type": "string",
+                "description": "",
+                "example": "Halifax"
+            },
+            {
+                "name": "Billing State",
+                "type": "string",
+                "description": "",
+                "example": "NS"
+            },
+            {
+                "name": "Billing Country",
+                "type": "string",
+                "description": "",
+                "example": "Canada"
+            },
+            {
+                "name": "Billing Zip Code",
+                "type": "string",
+                "description": "",
+                "example": "B3K 0H1"
+            },
+            {
+                "name": "Billing Street and Number 1",
+                "type": "string",
+                "description": "",
+                "example": "6708 Bayne St"
+            },
+            {
+                "name": "Creation Date",
+                "type": "string",
+                "description": "",
+                "example": "12/31/2024"
+            }
+        ]
+    },
+    "cleaned_Vendor list": {
+        "row_count": 325,
+        "column_count": 36,
+        "columns": [
+            {
+                "name": "Account Number",
+                "type": "string",
+                "description": "",
+                "example": "10001-016 - 619349070"
+            },
+            {
+                "name": "Name",
+                "type": "string",
+                "description": "",
+                "example": "San Diego Refrigerated Services Inc. DBA Harborside Operating Account"
+            },
+            {
+                "name": "Street and Number",
+                "type": "string",
+                "description": "",
+                "example": "PO Box 76154, RPO Millrise"
+            },
+            {
+                "name": "City",
+                "type": "string",
+                "description": "",
+                "example": "Calgary"
+            },
+            {
+                "name": "State",
+                "type": "string",
+                "description": "",
+                "example": "AB"
+            },
+            {
+                "name": "Country",
+                "type": "string",
+                "description": "",
+                "example": "Canada"
+            },
+            {
+                "name": "Zip code",
+                "type": "string",
+                "description": "",
+                "example": "T2Y 2Z0"
+            },
+            {
+                "name": "Phone",
+                "type": "string",
+                "description": "",
+                "example": "(502) 59630640"
+            },
+            {
+                "name": "Mobile Phone",
+                "type": "string",
+                "description": "",
+                "example": "593 95 893 4182"
+            },
+            {
+                "name": "Email",
+                "type": "string",
+                "description": "",
+                "example": "info@calgarypma.ca"
+            },
+            {
+                "name": "Fax",
+                "type": "string",
+                "description": "",
+                "example": "630 668-0303"
+            },
+            {
+                "name": "Website",
+                "type": "string",
+                "description": "",
+                "example": "www.calgarypma.ca"
+            },
+            {
+                "name": "Contact First Name",
+                "type": "string",
+                "description": "",
+                "example": "Priscila"
+            },
+            {
+                "name": "Contact Last Name",
+                "type": "string",
+                "description": "",
+                "example": "Adela"
+            },
+            {
+                "name": "Identification Number",
+                "type": "string",
+                "description": "",
+                "example": "CoC 4063651209976"
+            },
+            {
+                "name": "Street and Number 1",
+                "type": "string",
+                "description": "",
+                "example": "PO Box 76154, RPO Millrise"
+            },
+            {
+                "name": "Street and Number 2",
+                "type": "string",
+                "description": "",
+                "example": "Suite 400"
+            },
+            {
+                "name": "Billing Street and Number",
+                "type": "string",
+                "description": "",
+                "example": "PO Box 76154, RPO Millrise"
+            },
+            {
+                "name": "Billing City",
+                "type": "string",
+                "description": "",
+                "example": "Calgary"
+            },
+            {
+                "name": "Billing State",
+                "type": "string",
+                "description": "",
+                "example": "AB"
+            },
+            {
+                "name": "Billing Country",
+                "type": "string",
+                "description": "",
+                "example": "Canada"
+            },
+            {
+                "name": "Billing Zip Code",
+                "type": "string",
+                "description": "",
+                "example": "T2Y 2Z0"
+            },
+            {
+                "name": "Billing Street and Number 1",
+                "type": "string",
+                "description": "",
+                "example": "PO Box 76154, RPO Millrise"
+            },
+            {
+                "name": "Billing Street and Number 2",
+                "type": "string",
+                "description": "",
+                "example": "Suite 400"
+            },
+            {
+                "name": "Entity ID",
+                "type": "string",
+                "description": "",
+                "example": "DAABON"
+            },
+            {
+                "name": "Has Transactions",
+                "type": "string",
+                "description": "",
+                "example": "Yes"
+            },
+            {
+                "name": "Has Open Transactions",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Prepaid",
+                "type": "string",
+                "description": "",
+                "example": "Yes"
+            },
+            {
+                "name": "Preferred Currency",
+                "type": "string",
+                "description": "",
+                "example": "Canadian Dollar"
+            },
+            {
+                "name": "Balance (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "0.00"
+            },
+            {
+                "name": "Due Days",
+                "type": "integer",
+                "description": "",
+                "example": 0
+            },
+            {
+                "name": "Payment Terms",
+                "type": "string",
+                "description": "",
+                "example": "Net 30"
+            },
+            {
+                "name": "Billing Period",
+                "type": "string",
+                "description": "",
+                "example": "Never Apply"
+            },
+            {
+                "name": "Last Payment Amount (CAD)",
+                "type": "string",
+                "description": "",
+                "example": "1,227.40"
+            },
+            {
+                "name": "Last Payment Date",
+                "type": "string",
+                "description": "",
+                "example": "01/13/2025"
+            },
+            {
+                "name": "Supplier Invoice?",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            }
+        ]
+    },
+    "cleaned_Port List": {
+        "row_count": 30,
+        "column_count": 9,
+        "columns": [
+            {
+                "name": "Code",
+                "type": "string",
+                "description": "",
+                "example": "USOLS"
+            },
+            {
+                "name": "Name",
+                "type": "string",
+                "description": "",
+                "example": "Nogales"
+            },
+            {
+                "name": "Country",
+                "type": "string",
+                "description": "",
+                "example": "United States"
+            },
+            {
+                "name": "Subdivision",
+                "type": "string",
+                "description": "",
+                "example": "MD"
+            },
+            {
+                "name": "Air",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Ocean",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Rail",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Road",
+                "type": "string",
+                "description": "",
+                "example": "Yes"
+            },
+            {
+                "name": "Mail",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            }
+        ]
+    },
+    "Carrier_dim": {
+        "row_count": 51,
+        "column_count": 5,
+        "columns": [
+            {
+                "name": "Name",
+                "type": "string",
+                "description": "",
+                "example": "JE FORTIN"
+            },
+            {
+                "name": "Carrier Type",
+                "type": "string",
+                "description": "",
+                "example": "Land Carrier"
+            },
+            {
+                "name": "Method code",
+                "type": "string",
+                "description": "",
+                "example": "Ground"
+            },
+            {
+                "name": "Has Transactions",
+                "type": "string",
+                "description": "",
+                "example": "No"
+            },
+            {
+                "name": "Creation Date",
+                "type": "string",
+                "description": "",
+                "example": "01/03/2025"
+            }
+        ]
+    }
+}

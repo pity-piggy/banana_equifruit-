@@ -1,0 +1,6 @@
+Column Name,Data Type,Description,Example Value
+Name,object,,JE FORTIN
+Carrier Type,object,,Land Carrier
+Method code,object,,Ground
+Has Transactions,object,,No
+Creation Date,object,,01/03/2025

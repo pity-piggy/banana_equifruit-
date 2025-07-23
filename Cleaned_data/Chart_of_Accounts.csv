@@ -1,0 +1,406 @@
+Name,Type,Account Number,Balance (CAD),Currency,Parent Account,Balance,Type Code,Opening Balance Date,Cleared Balance,Reconciliation Date,No Cleared Balance (CAD),No Cleared Balance
+Undeposited Funds,Undeposited Funds,,0.00,Canadian Dollar,,CAD 0.00,OCASSET,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Visa à payer,Other Current Liabilities,20158.0,"-21,150.37",Canadian Dollar,,CAD -21150.37,OCLIAB,09/06/2024,CAD 0.00,09/06/2024,0.00,CAD 0.00
+Avantage Assurance maladie,Other Current Liabilities,22250.0,-482.91,Canadian Dollar,,CAD -482.91,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Assurance maladie à payer,Other Current Liabilities,22210.0,-207.49,Canadian Dollar,,CAD -207.49,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Ass.invalidité longue durée à payer,Other Current Liabilities,22230.0,-189.53,Canadian Dollar,,CAD -189.53,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TVQ payée sur les achats,Other Current Liabilities,23450.0,-38.28,Canadian Dollar,TVQ à remettre (Remboursement),CAD -38.28,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Assurance-vie à payer,Other Current Liabilities,22200.0,-32.82,Canadian Dollar,,CAD -32.82,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TPS/TVH payées sur achat,Other Current Liabilities,23150.0,-19.21,Canadian Dollar,TPS/TVH à remettre (Remboursement),CAD -19.21,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total du passif à court terme,Other Current Liabilities,25000.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TVQ à remettre (Remboursement),Other Current Liabilities,23600.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TVQ perçue sur les ventes,Other Current Liabilities,23400.0,0.00,Canadian Dollar,TVQ à remettre (Remboursement),CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TPS/TVH à remettre (Remboursement),Other Current Liabilities,23350.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TPS/TVH perçue sur les ventes,Other Current Liabilities,23100.0,0.00,Canadian Dollar,TPS/TVH à remettre (Remboursement),CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total REER et RPDB à payer,Other Current Liabilities,23051.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+RPDB à payer (portion employeur),Other Current Liabilities,23050.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+REER Patronale,Other Current Liabilities,23025.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+REER à payer,Other Current Liabilities,23000.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total Assurance collective à payer,Other Current Liabilities,22290.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Avantage Assurance vie,Other Current Liabilities,22245.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Ass.décès-mutilation accid. à payer,Other Current Liabilities,22240.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Ass.-vie personne à charge à payer,Other Current Liabilities,22205.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total - Ministère Revenu Québec,Other Current Liabilities,22150.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+CNT à payer,Other Current Liabilities,22130.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+CSST à payer,Other Current Liabilities,22125.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+RQAP à payer,Other Current Liabilities,22120.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+RAMQ à payer,Other Current Liabilities,22100.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Québec à payer,Other Current Liabilities,22050.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+RRQ à payer,Other Current Liabilities,22000.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total receveur général du Canada,Other Current Liabilities,21950.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôt fédéral à payer,Other Current Liabilities,21900.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+RPC à payer,Other Current Liabilities,21850.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Assurance-emploi à payer,Other Current Liabilities,21800.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Don à payer,Other Current Liabilities,21660.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,01/10/2025,CAD 0.00,01/10/2025,0.00,CAD 0.00
+Salaires à payer,Other Current Liabilities,21600.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôt sur bénéfices à payer,Other Current Liabilities,21300.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôt sur bénéfices FED à payer,Other Current Liabilities,21250.0,0.00,Canadian Dollar,Impôt sur bénéfices à payer,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôt sur bénéfices QC à payer,Other Current Liabilities,21200.0,0.00,Canadian Dollar,Impôt sur bénéfices à payer,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais courus,Other Current Liabilities,20195.0,0.00,Canadian Dollar,Passif à court terme,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais courus Prime Sociale transit,Other Current Liabilities,20190.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais courus Agrofair transit,Other Current Liabilities,20185.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total comptes à payer,Other Current Liabilities,20170.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Mastercard à payer,Other Current Liabilities,20157.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Marge de crédit USD,Other Current Liabilities,20151.0,0.00,United States Dollar,,USD 0.00,OCLIAB,02/24/2023,USD 0.00,02/24/2023,0.00,USD 0.00
+Marge de crédit,Other Current Liabilities,20150.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Conversion comptes payables US,Other Current Liabilities,20125.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Passif à court terme,Other Current Liabilities,20000.0,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Visa à payer USD,Other Current Liabilities,,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,10/17/2024,CAD 0.00,10/17/2024,0.00,CAD 0.00
+Sales Tax Payable,Other Current Liabilities,,0.00,Canadian Dollar,,CAD 0.00,OCLIAB,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Assurance dentaire à payer,Other Current Liabilities,22220.0,30.32,Canadian Dollar,,CAD 30.32,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Produits perçus d'avance,Other Current Liabilities,24000.0,"2,481.62",Canadian Dollar,,CAD 2481.62,OCLIAB,12/05/2024,CAD 0.00,12/05/2024,0.00,CAD 0.00
+Frais courus Fairtrade US,Other Current Liabilities,20181.0,"5,159.43",Canadian Dollar,,CAD 5159.43,OCLIAB,05/16/2024,CAD 0.00,05/16/2024,0.00,CAD 0.00
+Frais courus qualité-origine,Other Current Liabilities,20186.0,"5,818.40",United States Dollar,,USD 3500.00,OCLIAB,12/16/2021,USD 0.00,12/16/2021,0.00,USD 0.00
+Frais courus Prime Sociale,Other Current Liabilities,20191.0,"22,710.33",United States Dollar,,USD 13740.00,OCLIAB,12/16/2021,USD 0.00,12/16/2021,0.00,USD 0.00
+Vacances à payer,Other Current Liabilities,21700.0,"39,572.21",Canadian Dollar,,CAD 39572.21,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais courus Fairtrade CA,Other Current Liabilities,20180.0,"76,500.08",Canadian Dollar,,CAD 76500.08,OCLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Boni à payer,Other Current Liabilities,21650.0,"295,310.51",Canadian Dollar,,CAD 295310.51,OCLIAB,11/30/2023,CAD 0.00,11/30/2023,0.00,CAD 0.00
+Fonds de projets sociaux,Other Current Assets,11320.0,"-12,986.18",Canadian Dollar,,CAD -12986.18,OCASSET,02/05/2024,CAD 0.00,02/05/2024,0.00,CAD 0.00
+Total des investissements,Other Current Assets,19630.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Investissement Kool School,Other Current Assets,19605.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Investissements,Other Current Assets,19600.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de constitution,Other Current Assets,19300.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total des avances,Other Current Assets,16010.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Avance à Gestion TBS inc.,Other Current Assets,16005.0,0.00,Canadian Dollar,Avance,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Avance,Other Current Assets,16000.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total des stocks,Other Current Assets,15900.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inventaire T-Shirt,Other Current Assets,15220.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inventaire des transports maritimes,Other Current Assets,15205.0,0.00,Canadian Dollar,Stocks,CAD 0.00,OCASSET,05/30/2022,CAD 0.00,05/30/2022,0.00,CAD 0.00
+Stocks,Other Current Assets,15000.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total actifs à court terme,Other Current Assets,12000.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total à recevoir,Other Current Assets,11800.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Souscription à recevoir 1.0,Other Current Assets,11312.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Provision pour créances douteuses,Other Current Assets,11300.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Conversion comptes clients US,Other Current Assets,11025.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total de l'encaisse,Other Current Assets,10900.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Conversion comptant US,Other Current Assets,10500.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Chèques à déposer USD,Other Current Assets,10250.0,0.00,Canadian Dollar,Actifs à court terme,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Chèques à déposer CAD,Other Current Assets,10200.0,0.00,Canadian Dollar,Actifs à court terme,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Petite caisse,Other Current Assets,10100.0,0.00,Canadian Dollar,Actifs à court terme,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Actifs à court terme,Other Current Assets,10000.0,0.00,Canadian Dollar,,CAD 0.00,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inventory Asset,Other Current Assets,,0.00,Canadian Dollar,,CAD 0.00,OCASSET,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Sales Tax Credit,Other Current Assets,,0.00,Canadian Dollar,,CAD 0.00,OCASSET,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Inventaire Livre,Other Current Assets,15210.0,810.35,Canadian Dollar,Stocks,CAD 810.35,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Emballage,Other Current Assets,15100.0,"3,682.56",Canadian Dollar,Stocks,CAD 3682.56,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+TPS - TVQ à recevoir,Other Current Assets,11500.0,"7,099.35",Canadian Dollar,,CAD -82543.09,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais payés d'avance,Other Current Assets,11350.0,"10,001.88",Canadian Dollar,,CAD 10001.88,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inventaire des fruits,Other Current Assets,15200.0,"1,373,738.76",Canadian Dollar,Stocks,CAD 1373738.76,OCASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total des autres éléments d'actif,Other Assets,19500.0,0.00,Canadian Dollar,,CAD 0.00,OASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Net - Informatique,Other Assets,19110.0,0.00,Canadian Dollar,,CAD 0.00,OASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Autres éléments d'actif,Other Assets,19000.0,0.00,Canadian Dollar,,CAD 0.00,OASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total du passif à long terme,Long Term Liabilities,27000.0,0.00,Canadian Dollar,,CAD 0.00,LTLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Billet à payer Gestion TBS Inc.,Long Term Liabilities,26805.0,0.00,Canadian Dollar,,CAD 0.00,LTLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Prêt d'urgence,Long Term Liabilities,26250.0,0.00,Canadian Dollar,,CAD 0.00,LTLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Emprunts bancaires,Long Term Liabilities,26200.0,0.00,Canadian Dollar,,CAD 0.00,LTLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Passif à long terme,Long Term Liabilities,26000.0,0.00,Canadian Dollar,,CAD 0.00,LTLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Prêts des actionnaires,Long Term Liabilities,26800.0,0.11,Canadian Dollar,,CAD 0.11,LTLIAB,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total - Autre produit,Income,42500.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Subvention Finances Québec,Income,42210.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Revenus subvention fédéral 75%,Income,42206.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Revenus subvention fédéral 10%,Income,42205.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Revenus d'assurances,Income,42200.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Revenu d'intérêts CPG,Income,42100.0,0.00,United States Dollar,,USD 0.00,INC,12/06/2021,USD 0.00,12/06/2021,0.00,USD 0.00
+Autre produit,Income,42000.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total des revenus,Income,41000.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Escompte sur ventes,Income,40900.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Remise pour livraison Burnac Gamble,Income,40850.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Pertes sur ventes,Income,40800.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Ventes,Income,40200.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Ventes Emballage,Income,40100.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Revenus,Income,40000.0,0.00,Canadian Dollar,,CAD 0.00,INC,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Services,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Sales Discount,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Vendors Discounts,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Inventory Income,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Opening Balance Income,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Insurance Income,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Sales Tax Preparation Income,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Agent Liquidation Income,Income,,0.00,Canadian Dollar,,CAD 0.00,INC,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Amortissement cumule - Informatique,Fixed Assets,19105.0,"-26,854.00",Canadian Dollar,,CAD -26854.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Amort. cum. - Présentoir bananes,Fixed Assets,18250.0,"-17,955.04",Canadian Dollar,,CAD -17955.04,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Amort.cu. - Equipement,Fixed Assets,18310.0,"-4,826.00",Canadian Dollar,,CAD -4826.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total des immobilisations,Fixed Assets,18900.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Terrain,Fixed Assets,18800.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Net - Bâtiment,Fixed Assets,18700.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Amortissement cumulé - Bâtiment,Fixed Assets,18650.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Bâtiment,Fixed Assets,18600.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Net - Véhicule,Fixed Assets,18500.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Amortissement cumulé - Enseigne,Fixed Assets,18450.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Enseigne,Fixed Assets,18400.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Net - Equipement,Fixed Assets,18315.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Net - Matériel/mobilier/install.,Fixed Assets,18300.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Améliorations locatives,Fixed Assets,18100.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Immobilisations,Fixed Assets,17000.0,0.00,Canadian Dollar,,CAD 0.00,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Equipement,Fixed Assets,18305.0,"6,128.01",Canadian Dollar,,CAD 6128.01,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Présentoire sur pied pour bananes,Fixed Assets,18200.0,"21,783.92",Canadian Dollar,,CAD 21783.92,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Logiciel ordinateur,Fixed Assets,19100.0,"49,937.63",Canadian Dollar,,CAD 49937.63,FIXASSET,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Taxes et permis,Expense,59876.0,0.00,Canadian Dollar,"Licences, permis et adhésions",CAD 0.00,EXP,04/27/2022,CAD 0.00,04/27/2022,0.00,CAD 0.00
+Gains/Pertes Firma,Expense,59520.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Gains/Pertes sur transferts,Expense,59515.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total amortissements et impôts,Expense,59480.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôts de l'exercice,Expense,59475.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôts exigibles,Expense,59470.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôt fédéral de l'exercice,Expense,59465.0,0.00,Canadian Dollar,Impôts de l'exercice,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Impôt provincial de l'exercice,Expense,59460.0,0.00,Canadian Dollar,Impôts de l'exercice,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Recette subvention gouvernement,Expense,59455.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Amortissement de l'exercice,Expense,59450.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Amortissements et impôts,Expense,59400.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total frais bancaires,Expense,59395.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Intérêts et pénalités sur impôt,Expense,59375.0,0.00,Canadian Dollar,Intérêts Responsabilités financières courantes,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Intérêts dette à long terme,Expense,59350.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Perte sur disposition d'actifs,Expense,59330.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de carte de crédit,Expense,59325.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais square,Expense,59320.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de Service Firma,Expense,59305.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais bancaires,Expense,59300.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Intérêts marge de crédit usd,Expense,59280.0,0.00,Canadian Dollar,Intérêts Responsabilités financières courantes,CAD 0.00,EXP,03/22/2023,CAD 0.00,03/22/2023,0.00,CAD 0.00
+Intérêts marge de crédit,Expense,59275.0,0.00,Canadian Dollar,Intérêts Responsabilités financières courantes,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais marge crédit,Expense,59250.0,0.00,Canadian Dollar,Intérêts Responsabilités financières courantes,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Intérêts Responsabilités financières courantes,Expense,59200.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,06/22/2022,CAD 0.00,06/22/2022,0.00,CAD 0.00
+Total frais généraux administration,Expense,59190.0,0.00,Canadian Dollar,Salaires et charges sociales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+"Licences, permis et adhésions",Expense,59000.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+World Banana Forum,Expense,58980.0,0.00,Canadian Dollar,"Licences, permis et adhésions",CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Cotisations autres,Expense,58975.0,0.00,Canadian Dollar,"Licences, permis et adhésions",CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Cotisations équitables,Expense,58950.0,0.00,Canadian Dollar,"Licences, permis et adhésions",CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Cotisations bio,Expense,58925.0,0.00,Canadian Dollar,"Licences, permis et adhésions",CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Assurances,Expense,58900.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Assurances responsabilités,Expense,58875.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Assurances Cargo,Expense,58850.0,0.00,Canadian Dollar,Assurances,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de service Ceridian,Expense,58840.0,0.00,Canadian Dollar,Avantages et bénéfices salariales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+EQ Care,Expense,58830.0,0.00,Canadian Dollar,Avantages et bénéfices salariales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Avantages et bénéfices salariales,Expense,58820.0,0.00,Canadian Dollar,Salaires et charges sociales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais mensuel Tedy,Expense,58815.0,0.00,Canadian Dollar,Avantages et bénéfices salariales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais Stripe Tedy,Expense,58810.0,0.00,Canadian Dollar,Avantages et bénéfices salariales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Avantages Tedy,Expense,58805.0,0.00,Canadian Dollar,Avantages et bénéfices salariales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Téléphone,Expense,58775.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Cellulaires,Expense,58750.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Sap One,Expense,58730.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,04/17/2024,CAD 0.00,04/17/2024,0.00,CAD 0.00
+Consultation M365,Expense,58729.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/15/2022,CAD 0.00,12/15/2022,0.00,CAD 0.00
+Magaya,Expense,58728.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/15/2022,CAD 0.00,12/15/2022,0.00,CAD 0.00
+SPS,Expense,58727.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,03/17/2022,CAD 0.00,03/17/2022,0.00,CAD 0.00
+Itrade,Expense,58726.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais informatiques,Expense,58725.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Asana,Expense,58724.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,05/02/2024,CAD 0.00,05/02/2024,0.00,CAD 0.00
+Informatiques & Télécomms,Expense,58720.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais Honoraires professionnels,Expense,58700.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Mauvaises créances,Expense,58675.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Food safety,Expense,58660.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais Operadora Portuaria Centroamericana,Expense,58651.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,05/10/2024,CAD 0.00,05/10/2024,0.00,CAD 0.00
+Frais légaux et réglementaires,Expense,58650.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de gouvernance,Expense,58500.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,01/15/2024,CAD 0.00,01/15/2024,0.00,CAD 0.00
+Team building,Expense,58460.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Cadeaux et récompenses,Expense,58450.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Dons,Expense,58400.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Soutien RH et recrutement,Expense,58360.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Honoraires professionnels,Expense,58350.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Tenue de livre U.S,Expense,58310.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,01/16/2024,CAD 0.00,01/16/2024,0.00,CAD 0.00
+Tenue de livre,Expense,58305.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Formation cours/livres,Expense,58300.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Courrier & frais postaux,Expense,58250.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Fournitures et papeterie,Expense,58200.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Entretien et réparation bureau,Expense,58175.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,02/16/2022,CAD 0.00,02/16/2022,0.00,CAD 0.00
+Mobilier pour le bureau,Expense,58150.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Sécurité,Expense,58100.0,0.00,Canadian Dollar,Frais Honoraires professionnels,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Loyer,Expense,58050.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de repas internes,Expense,58010.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de bureau,Expense,58000.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,09/08/2022,CAD 0.00,09/08/2022,0.00,CAD 0.00
+Frais de déplacements internes,Expense,57950.0,0.00,Canadian Dollar,Travel,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais généraux d'administration,Expense,57925.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Travel,Expense,57900.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,01/16/2024,CAD 0.00,01/16/2024,0.00,CAD 0.00
+Total développement fournisseurs,Expense,56900.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Développement professionnel - formation,Expense,56890.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/17/2023,CAD 0.00,12/17/2023,0.00,CAD 0.00
+Frais gestion des opérations,Expense,56885.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/17/2023,CAD 0.00,12/17/2023,0.00,CAD 0.00
+Frais conformité,Expense,56880.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/17/2023,CAD 0.00,12/17/2023,0.00,CAD 0.00
+Frais développement durable,Expense,56875.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/17/2023,CAD 0.00,12/17/2023,0.00,CAD 0.00
+Dépenses développement fournisseurs,Expense,56870.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de voyage qualité origine,Expense,56865.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/17/2023,CAD 0.00,12/17/2023,0.00,CAD 0.00
+Honoraires consultants qualité,Expense,56860.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Conférences,Expense,56855.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/17/2023,CAD 0.00,12/17/2023,0.00,CAD 0.00
+Evènements Dév. fournisseurs,Expense,56850.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de repas Dév. fournisseurs,Expense,56800.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Hébergement Dév. fournisseurs,Expense,56701.0,0.00,Canadian Dollar,Travel,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de voyage Dév. fournisseurs,Expense,56700.0,0.00,Canadian Dollar,Travel,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Gestion des opérations,Expense,56675.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total développement des affaires,Expense,56600.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Honoraires Dév.affaires,Expense,56550.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Evènements Dév. affaires,Expense,56500.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Education Dév. Affaires,Expense,56480.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Dépenses développement affaires,Expense,56470.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de repas Dév. affaires,Expense,56450.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Outils de vente Dév. affaires,Expense,56425.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Hébergement Dév. affaires,Expense,56400.0,0.00,Canadian Dollar,Travel,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de voyage Dev.affaires,Expense,56350.0,0.00,Canadian Dollar,Travel,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de développement des affaires,Expense,56349.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total frais de Marketing,Expense,56325.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Etudes de marché et data,Expense,56320.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Creative Agency and Consultants,Expense,56315.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Other Marketing,Expense,56310.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Meal Marketing,Expense,56300.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Travel Marketing,Expense,56250.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Business Development Sponsorship US,Expense,56245.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Business Development Sponsorship Canada,Expense,56240.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+B2B Brand Building USA,Expense,56237.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,09/15/2023,CAD 0.00,09/15/2023,0.00,CAD 0.00
+B2B Brand Building Canada,Expense,56236.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,09/15/2023,CAD 0.00,09/15/2023,0.00,CAD 0.00
+B2C Brand Building USA,Expense,56235.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,01/10/2023,CAD 0.00,01/10/2023,0.00,CAD 0.00
+B2C Brand Building Canada,Expense,56230.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+POS,Expense,56225.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Customers gifts,Expense,56220.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Professional Development,Expense,56215.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Marketing Activations promo clients,Expense,56211.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Marketing Activations,Expense,56210.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Swag,Expense,56205.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Printing cost,Expense,56200.0,0.00,Canadian Dollar,Frais de bureau,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Design and Packaging,Expense,56150.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Community Sponsorships,Expense,56110.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,01/16/2024,CAD 0.00,01/16/2024,0.00,CAD 0.00
+Community Sponsorships USA,Expense,56105.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,01/10/2023,CAD 0.00,01/10/2023,0.00,CAD 0.00
+Community Sponsorships Canada,Expense,56100.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Subscriptions,Expense,56070.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/01/2022,CAD 0.00,12/01/2022,0.00,CAD 0.00
+Retail Activation USA,Expense,56065.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,01/10/2023,CAD 0.00,01/10/2023,0.00,CAD 0.00
+Retail Activation Canada,Expense,56060.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+General Publicity,Expense,56050.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Personnel supplémentaire,Expense,56000.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Activités promo en magasin Longo's,Expense,55960.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Trade Show USA,Expense,55955.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,01/10/2023,CAD 0.00,01/10/2023,0.00,CAD 0.00
+Trade Show Canada,Expense,55950.0,0.00,Canadian Dollar,Advertising and Promotion,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Advertising and Promotion,Expense,55900.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais marketing,Expense,55800.0,0.00,Canadian Dollar,,CAD 0.00,EXP,09/08/2022,CAD 0.00,09/08/2022,0.00,CAD 0.00
+Total salaires et avant soc.adm.,Expense,55700.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Salaires et charges sociales marketing,Expense,55390.0,0.00,Canadian Dollar,Salaires et charges sociales,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge Assurance invalidité marketing,Expense,55380.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge Avantage Ass. maladie marketing,Expense,55375.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge Avantage Ass.vie pac marketing,Expense,55370.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge Invalidité longue durée marketing,Expense,55365.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RPDB markieting,Expense,55360.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge CSST marketing,Expense,55350.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RQAP marketing,Expense,55345.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du FSSQ marketing,Expense,55340.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RRQ marketing,Expense,55335.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RRC marketing,Expense,55330.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge de A-E marketing,Expense,55325.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Vacances marketing,Expense,55305.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Salaires marketing,Expense,55300.0,0.00,Canadian Dollar,Salaires et charges sociales marketing,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Salaires et charges sociales administration,Expense,55190.0,0.00,Canadian Dollar,Salaires et charges sociales,CAD 0.00,EXP,08/31/2022,CAD 0.00,08/31/2022,0.00,CAD 0.00
+Charge Assurance invalidité administration,Expense,55180.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge Avantage Ass. maladie administration,Expense,55175.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge Avantage Ass. vie pac -admin,Expense,55170.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du REER Patronale - admin,Expense,55161.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RPDB administration,Expense,55160.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,08/31/2022,CAD 0.00,08/31/2022,0.00,CAD 0.00
+Charge CSST administration,Expense,55150.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,08/31/2022,CAD 0.00,08/31/2022,0.00,CAD 0.00
+Charge du RQAP - administration,Expense,55145.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du FSSQ - administration,Expense,55140.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RRQ - administration,Expense,55135.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge du RPC - administration,Expense,55130.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge de A-E - administration,Expense,55125.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Vacances administration,Expense,55105.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Salaires administrations,Expense,55100.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge CNESST,Expense,55050.0,0.00,Canadian Dollar,Salaires et charges sociales administration,CAD 0.00,EXP,06/26/2024,CAD 0.00,06/26/2024,0.00,CAD 0.00
+Salaires et charges sociales,Expense,55000.0,0.00,Canadian Dollar,Operating Expenses,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Operating Expenses,Expense,54900.0,0.00,Canadian Dollar,,CAD 0.00,EXP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Customers Discounts,Expense,,0.00,Canadian Dollar,,CAD 0.00,EXP,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Opening Balance Expense,Expense,,0.00,Canadian Dollar,,CAD 0.00,EXP,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Sales Commission,Expense,,0.00,Canadian Dollar,,CAD 0.00,EXP,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Actions catégorie F,Equity,33510.0,"-249,990.04",Canadian Dollar,Capital - Actions,CAD -249990.04,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total des bénéfices non répartis,Equity,36900.0,0.00,Canadian Dollar,,CAD 0.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Bénéfice net,Equity,36000.0,0.00,Canadian Dollar,Bénéfices non répartis,CAD 0.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Bénéfices non répartis,Equity,35000.0,0.00,Canadian Dollar,,CAD 0.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total du capital - Actions,Equity,34000.0,0.00,Canadian Dollar,,CAD 0.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Prime sur rachats d'actions,Equity,33600.0,0.00,Canadian Dollar,,CAD 0.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Capital - Actions,Equity,33000.0,0.00,Canadian Dollar,,CAD 0.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Dividendes,Equity,30100.0,0.00,Canadian Dollar,,CAD 0.00,EQUITY,03/17/2023,CAD 0.00,03/17/2023,0.00,CAD 0.00
+Opening Balance Equity,Equity,,0.00,Canadian Dollar,,CAD 0.00,EQUITY,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Actions catégorie C - Kim,Equity,33506.0,1.50,Canadian Dollar,Capital - Actions,CAD 1.50,EQUITY,04/08/2024,CAD 0.00,04/08/2024,0.00,CAD 0.00
+Actions catégorie A - Kim,Equity,33501.0,1.50,Canadian Dollar,Capital - Actions,CAD 1.50,EQUITY,04/08/2024,CAD 0.00,04/08/2024,0.00,CAD 0.00
+Actions catégorie C,Equity,33505.0,8.50,Canadian Dollar,Capital - Actions,CAD 8.50,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Actions catégorie A - Fiducie,Equity,33500.0,8.50,Canadian Dollar,Capital - Actions,CAD 8.50,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Actions catégorie G,Equity,33515.0,54.00,Canadian Dollar,Capital - Actions,CAD 54.00,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Retained Earnings,Equity,,"935,141.38",Canadian Dollar,,CAD -359221.73,EQUITY,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Bénéfices non répartis- exer. préc.,Equity,35600.0,"1,703,678.11",Canadian Dollar,,CAD 1703678.11,EQUITY,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Gains/Pertes de change réalisés,Cost Of Goods Sold,59510.0,0.00,Canadian Dollar,Gains/Pertes de change,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Gains/Pertes de change réalisés Magaya,Cost Of Goods Sold,59505.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Gains/Pertes de change,Cost Of Goods Sold,59500.0,0.00,Canadian Dollar,,CAD 0.00,COGS,09/08/2022,CAD 0.00,09/08/2022,0.00,CAD 0.00
+Main d'oeuvre direct,Cost Of Goods Sold,55290.0,0.00,Canadian Dollar,,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge Assurance invalidité opération,Cost Of Goods Sold,55280.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge Avantage Ass. maladie opération,Cost Of Goods Sold,55275.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge CSST opération,Cost Of Goods Sold,55250.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge du RQAP opération,Cost Of Goods Sold,55245.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge du FSSQ opération,Cost Of Goods Sold,55240.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge du RRQ opération,Cost Of Goods Sold,55235.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Charge CNT,Cost Of Goods Sold,55230.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Charge de A-E opération,Cost Of Goods Sold,55225.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,08/31/2022,CAD 0.00,08/31/2022,0.00,CAD 0.00
+Charge du RPDB opération,Cost Of Goods Sold,55222.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Vacances opérations,Cost Of Goods Sold,55205.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,09/01/2022,CAD 0.00,09/01/2022,0.00,CAD 0.00
+Honoraires consultants,Cost Of Goods Sold,55201.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,06/22/2022,CAD 0.00,06/22/2022,0.00,CAD 0.00
+Salaires opérations,Cost Of Goods Sold,55200.0,0.00,Canadian Dollar,Main d'oeuvre direct,CAD 0.00,COGS,08/31/2022,CAD 0.00,08/31/2022,0.00,CAD 0.00
+Coût total des marchandises vendues,Cost Of Goods Sold,53500.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Stocks à la fin,Cost Of Goods Sold,52000.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais envoi doc,Cost Of Goods Sold,51750.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais Éco Entreprises,Cost Of Goods Sold,51710.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,02/09/2024,CAD 0.00,02/09/2024,0.00,CAD 0.00
+Frais de licence US,Cost Of Goods Sold,51701.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,05/16/2024,CAD 0.00,05/16/2024,0.00,CAD 0.00
+Frais de licence CA,Cost Of Goods Sold,51700.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Detention,Cost Of Goods Sold,51625.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Demurrage,Cost Of Goods Sold,51620.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Reefer plugin,Cost Of Goods Sold,51615.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Murissage,Cost Of Goods Sold,51610.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Storage pallets,Cost Of Goods Sold,51605.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,02/21/2023,CAD 0.00,02/21/2023,0.00,CAD 0.00
+Entreposage et murissage,Cost Of Goods Sold,51600.0,0.00,Canadian Dollar,,CAD 0.00,COGS,09/08/2022,CAD 0.00,09/08/2022,0.00,CAD 0.00
+Réparations,Cost Of Goods Sold,51565.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inspections douanières,Cost Of Goods Sold,51515.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+CA Clearance,Cost Of Goods Sold,51511.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,01/12/2025,CAD 0.00,01/12/2025,0.00,CAD 0.00
+US Clearance,Cost Of Goods Sold,51510.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais de douanes,Cost Of Goods Sold,51500.0,0.00,Canadian Dollar,,CAD 0.00,COGS,09/08/2022,CAD 0.00,09/08/2022,0.00,CAD 0.00
+Frais  OPC,Cost Of Goods Sold,51475.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,03/14/2023,CAD 0.00,03/14/2023,0.00,CAD 0.00
+Dump,Cost Of Goods Sold,51470.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais PayCargo,Cost Of Goods Sold,51465.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,03/29/2024,CAD 0.00,03/29/2024,0.00,CAD 0.00
+Manutention Courchesne Larose,Cost Of Goods Sold,51460.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Attente Courchesne Larose,Cost Of Goods Sold,51459.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Attente livraison Chiovitti,Cost Of Goods Sold,51458.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Attente livraison Go Fresh,Cost Of Goods Sold,51457.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Attente livraison Sobeys,Cost Of Goods Sold,51456.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Attente livraison Canadawide,Cost Of Goods Sold,51455.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Livraison au client,Cost Of Goods Sold,51450.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Manutention port,Cost Of Goods Sold,51440.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais annexes Sobeys,Cost Of Goods Sold,51435.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais qualité - Costco US,Cost Of Goods Sold,51433.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,09/05/2023,CAD 0.00,09/05/2023,0.00,CAD 0.00
+Tive Tag Temperature Logger,Cost Of Goods Sold,51432.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,07/06/2023,CAD 0.00,07/06/2023,0.00,CAD 0.00
+FSVP,Cost Of Goods Sold,51431.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,05/12/2023,CAD 0.00,05/12/2023,0.00,CAD 0.00
+Frais qualité - origine,Cost Of Goods Sold,51430.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inspection locale,Cost Of Goods Sold,51425.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Frais booking Perou,Cost Of Goods Sold,51420.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Transport Mexique direct,Cost Of Goods Sold,51415.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Transport Maritime,Cost Of Goods Sold,51410.0,0.00,Canadian Dollar,Transport et livraison,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Transport pays d'origine,Cost Of Goods Sold,51405.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Transport et livraison,Cost Of Goods Sold,51400.0,0.00,Canadian Dollar,,CAD 0.00,COGS,09/08/2022,CAD 0.00,09/08/2022,0.00,CAD 0.00
+Prime sociale,Cost Of Goods Sold,51300.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Credit producteur,Cost Of Goods Sold,51210.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Pertes sur achats,Cost Of Goods Sold,51205.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Coût du fruit,Cost Of Goods Sold,51200.0,0.00,Canadian Dollar,Purchases and Supplies,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Purchases and Supplies,Cost Of Goods Sold,51100.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Stocks au début,Cost Of Goods Sold,51050.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Total variation d'inventaire,Cost Of Goods Sold,50800.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Coûts de transfert,Cost Of Goods Sold,50750.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Radiation d'ajustement,Cost Of Goods Sold,50700.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Coûts de l'assemblage des articles,Cost Of Goods Sold,50650.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Ecart des prix de stock,Cost Of Goods Sold,50600.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inventaires,Cost Of Goods Sold,50550.0,0.00,Canadian Dollar,,CAD 0.00,COGS,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Inventory Cost,Cost Of Goods Sold,,0.00,Canadian Dollar,,CAD 0.00,COGS,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Insurance Cost,Cost Of Goods Sold,,0.00,Canadian Dollar,,CAD 0.00,COGS,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Agent Liquidation Cost,Cost Of Goods Sold,,0.00,Canadian Dollar,,CAD 0.00,COGS,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Courtier cambiste us,Bank Account,10475.0,0.00,Canadian Dollar,,CAD 0.00,BANK,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Comptant USD transit,Bank Account,10455.0,0.00,Canadian Dollar,,CAD 0.00,BANK,12/06/2021,CAD 0.00,12/31/2021,0.00,CAD 0.00
+Comptant USD,Bank Account,10450.0,0.00,United States Dollar,,USD 0.00,BANK,12/03/2021,USD 0.00,11/30/2024,-40.29,USD 0.00
+Cash,Bank Account,,0.00,Canadian Dollar,,CAD 0.00,BANK,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Comptant CAD,Bank Account,10400.0,"1,314.05",Canadian Dollar,,CAD 1314.05,BANK,12/06/2021,CAD 47392.11,11/30/2024,"-46,078.06",CAD -46078.06
+Comptant CAD RBC,Bank Account,10410.0,"63,736.16",Canadian Dollar,,CAD 63736.16,BANK,01/12/2023,CAD 93689.88,12/31/2024,"-29,953.72",CAD -29953.72
+Comptant USD RBC,Bank Account,10460.0,"827,226.44",United States Dollar,,USD 615882.80,BANK,01/12/2023,USD 496747.50,12/31/2024,"174,471.51",USD 119135.30
+CPG D'ENTREPRISE USD RBC,Bank Account,10465.0,"981,400.00",United States Dollar,,USD 700000.00,BANK,08/27/2024,USD 0.00,08/27/2024,"981,400.00",USD 700000.00
+Comptes clients USD transit,Accounts Receivable,11015.0,0.00,Canadian Dollar,,CAD 0.00,AR,12/13/2021,CAD 0.00,12/13/2021,0.00,CAD 0.00
+Comptes clients CAD,Accounts Receivable,11000.0,0.00,Canadian Dollar,,CAD 0.00,AR,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Accounts Receivable,Accounts Receivable,,0.00,Canadian Dollar,,CAD 0.00,AR,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Souscription à recevoir,Accounts Receivable,11310.0,30.00,Canadian Dollar,,CAD 30.00,AR,05/10/2024,CAD 0.00,05/10/2024,0.00,CAD 0.00
+Dépôt HelloDarwin,Accounts Receivable,11020.0,"15,000.00",Canadian Dollar,,CAD 15000.00,AR,08/27/2024,CAD 0.00,08/27/2024,0.00,CAD 0.00
+Comptes clients USD,Accounts Receivable,11010.0,"2,638,973.63",United States Dollar,,USD 1835440.02,AR,12/06/2021,USD 0.00,12/06/2021,0.00,USD 0.00
+Credit Card to be paid,Accounts Payable,20155.0,0.00,Canadian Dollar,,CAD 0.00,AP,05/10/2024,CAD 0.00,05/10/2024,0.00,CAD 0.00
+Comptes payables USD transit,Accounts Payable,20110.0,0.00,Canadian Dollar,,CAD 0.00,AP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Accounts Payable,Accounts Payable,,0.00,Canadian Dollar,,CAD 0.00,AP,04/30/2019,CAD 0.00,04/30/2019,0.00,CAD 0.00
+Comptes payables CAD,Accounts Payable,20100.0,"70,477.48",Canadian Dollar,,CAD 70477.48,AP,12/06/2021,CAD 0.00,12/06/2021,0.00,CAD 0.00
+Comptes payables USD,Accounts Payable,20115.0,"520,618.92",United States Dollar,,USD 363418.69,AP,12/13/2021,USD 0.00,12/13/2021,0.00,USD 0.00

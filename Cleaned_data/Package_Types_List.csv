@@ -1,0 +1,103 @@
+Description,Length (in),Height (in),Width (in),Weight (lb),Volume (ft³),Maximum Weight (lb),Type,Type Code,Container Code,Container Type,Method
+Caja con tapa convencional (naranja y azul),0.0,0.0,0.0,0.00,0.00,0.00,Case,CAS,,,
+Bandeja Organica/Open-Top Case (Morado y verde),15.9,8.9,23.9,0.00,1.96,0.00,Case,CAS,,,
+D Container,58.0,45.0,42.0,0.00,56.50,0.00,Container,CNT,,, Ground Air
+Type L-N,55.91,57.09,55.12,0.00,98.88,"3,160.11",Container,CNT,,, Ground Air
+Type EH,35.83,22.05,22.05,0.00,7.06,646.84,Container,CNT,,, Ground Air
+Type E,42.13,25.59,29.13,0.00,17.66,646.84,Container,CNT,,, Ground Air
+LD-2 (IATA Type 8D) ,46.85,64.17,60.24,0.00,116.54,"2,700.66",Container,CNT,,, Ground Air
+LD-3 (IATA Type 8),60.63,64.17,60.24,0.00,151.85,"3,500.94",Container,CNT,,, Ground Air
+LD-4 (IATA Type 7A) ,96.06,64.17,60.24,0.00,190.70,"5,401.33",Container,CNT,,, Ground Air
+LD-8 ( IATA Type 6A),96.06,64.17,60.24,0.00,247.20,"5,401.33",Container,CNT,,, Ground Air
+LD-11 (IATA Type 6),124.8,62.99,60.24,0.00,247.20,"7,001.88",Container,CNT,,, Ground Air
+LD-11 Pallet (IATA Type 6),124.8,62.99,60.24,0.00,243.67,"7,001.88",Container,CNT,,, Ground Air
+LD-7 (IATA Type 5),124.8,62.99,88.19,0.00,349.62,"10,200.79",Container,CNT,,, Ground Air
+45 Ft. HC Refrigerated,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,L5R1, Ocean Ground
+45 Ft. High Cube (Aluminium),534.72,105.79,92.32,0.00,"3,022.94","64,132.47",Container,CNT,,L5G1, Ocean Ground
+45 Ft. Standard Container,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,L5G0, Ocean Ground
+40 Ft. Ventilated,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,42VH, Ocean Ground
+40 Ft. Tank,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,42T0, Ocean Ground
+40 Ft. Insulated,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,42H0, Ocean Ground
+40 Ft. High Cube Hard Top,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,45UP, Ocean Ground
+40 Ft. Hard Top,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,42UP, Ocean Ground
+40 Ft. Collapsible Flat Rack,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,42P3, Ocean Ground
+40 Ft. Platform,480.0,0.0,95.98,0.00,0.00,"110,231.13",Container,CNT,,49P0, Ocean Ground
+40 Ft. Flat Rack,475.28,78.54,93.46,0.00,"2,016.47","55,953.32",Container,CNT,,42P1, Ocean Ground
+40 Ft. Open Top,473.43,91.73,92.52,0.00,"2,323.71","58,047.71",Container,CNT,40,42U1, Ocean Ground
+40 Ft. HC Refrigerated (Aluminium),459.45,98.43,90.16,"3,747.86","2,359.40","57,165.86",Container,CNT,,45R1, Ocean Ground
+40 Ft. Refrigerated (Aluminium),459.8,87.05,90.0,0.00,"2,083.57","58,157.94",Container,CNT,,42R1, Ocean Ground
+40 Ft. Dry Freight,473.98,94.17,92.52,0.00,"2,390.80","58,687.05",Container,CNT,,42G0, Ocean Ground
+40 Ft. High Cube,474.8,102.01,95.98,0.00,"2,698.04","58,047.71",Container,CNT,,45G0, Ocean Ground
+40 Ft. Standard Container,474.8,102.01,95.98,0.00,"2,390.80","58,598.87",Container,CNT,4B,42G0, Ocean Ground
+20 Ft. Ventilated,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,22VH, Ocean Ground
+20 Ft. Tank,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,22T0, Ocean Ground
+20 Ft. Platform,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,29P0, Ocean Ground
+20 Ft. Insulated,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,22H0, Ocean Ground
+20 Ft. Hard Top,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,22UP, Ocean Ground
+20 Ft. Collapsible Flat Rack,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,22P3, Ocean Ground
+20 Ft. Bulk,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,22B0, Ocean Ground
+20 Ft. Flat Rack,234.41,88.78,93.46,0.00,"1,126.54","47,178.92",Container,CNT,,22P1, Ocean Ground
+20 Ft. Open Top,231.93,91.73,92.52,0.00,"1,137.13","47,509.62",Container,CNT,20,22U1, Ocean Ground
+20 Ft. Refrigerated (Aluminium),218.31,88.94,99.41,0.00,995.87,"46,693.91",Container,CNT,,22R1, Ocean Ground
+20 Ft. Dry Freight,232.48,94.17,92.52,0.00,"1,172.45","47,840.31",Container,CNT,,22G0, Ocean Ground
+20 Ft. Standard Container,233.66,93.82,91.93,0.00,"1,197.17","48,325.33",Container,CNT,2B,22G0, Ocean Ground
+Wooden Case,0.0,0.0,0.0,0.00,0.00,0.00,Wooden Case,WDC,,,
+Van Pack,0.0,0.0,0.0,0.00,0.00,0.00,Van Pack,VPK,,,
+Unit,0.0,0.0,0.0,0.00,0.00,0.00,Unit,UNT,,,
+Tin,0.0,0.0,0.0,0.00,0.00,0.00,Tin,TIN,,,
+Tote Bin,0.0,0.0,0.0,0.00,0.00,0.00,Tote Bin,TBN,,,
+Reel,0.0,0.0,0.0,0.00,0.00,0.00,Reel,REL,,,
+Privately Owned Vehicle,0.0,0.0,0.0,0.00,0.00,0.00,Privately Owned Vehicle,POV,,,
+Pail,0.0,0.0,0.0,0.00,0.00,0.00,Pail,PAL,,,
+Lift Van,0.0,0.0,0.0,0.00,0.00,0.00,Lift Van,LVN,,,
+Lug,0.0,0.0,0.0,0.00,0.00,0.00,Lug,LUG,,,
+Log,0.0,0.0,0.0,0.00,0.00,0.00,Log,LOG,,,
+Liquid Bulk,0.0,0.0,0.0,0.00,0.00,0.00,Liquid Bulk,LBK,,,
+Keg,0.0,0.0,0.0,0.00,0.00,0.00,Keg,KEG,,,
+Hamper,0.0,0.0,0.0,0.00,0.00,0.00,Hamper,HMP,,,
+Head of Beef,0.0,0.0,0.0,0.00,0.00,0.00,Head of Beef,HOB,,,
+Dry Bulk,0.0,0.0,0.0,0.00,0.00,0.00,Dry Bulk,DBK,,,
+Carton,0.0,0.0,0.0,0.00,0.00,0.00,Carton,CTN,,,
+Cask,0.0,0.0,0.0,0.00,0.00,0.00,Cask,CSK,,,
+Cord,0.0,0.0,0.0,0.00,0.00,0.00,Cord,CRD,,,
+Coil,0.0,0.0,0.0,0.00,0.00,0.00,Coil,COL,,,
+Chest,0.0,0.0,0.0,0.00,0.00,0.00,Chest,CHS,,,
+Can Case,0.0,0.0,0.0,0.00,0.00,0.00,Can Case,CCS,,,
+Carboy,0.0,0.0,0.0,0.00,0.00,0.00,Carboy,CBY,,,
+Container Bulk Cargo,0.0,0.0,0.0,0.00,0.00,0.00,Container Bulk Cargo,CBC,,,
+Caja con tapa organica (morado y verde),0.0,0.0,0.0,0.00,0.00,0.00,Case,CAS,,,
+Carcass,0.0,0.0,0.0,0.00,0.00,0.00,Carcass,CAR,,,
+Can,0.0,0.0,0.0,0.00,0.00,0.00,Can,CAN,,,
+Bale,0.0,0.0,0.0,0.00,0.00,0.00,Bale,BLE,,,
+Bucket,0.0,0.0,0.0,0.00,0.00,0.00,Bucket,BKT,,,
+Bin,0.0,0.0,0.0,0.00,0.00,0.00,Bin,BIN,,,
+Bing Chest,0.0,0.0,0.0,0.00,0.00,0.00,Bing Chest,BIC,,,
+Bundle,0.0,0.0,0.0,0.00,0.00,0.00,Bundle,BDL,,,
+Wrapped,0.0,0.0,0.0,0.00,0.00,0.00,Wrapped,WRP,,,
+Vehicles,0.0,0.0,0.0,0.00,0.00,0.00,Vehicles,VEH,,,
+Tray,0.0,0.0,0.0,0.00,0.00,0.00,Tray,TRY,,,
+Tube,0.0,0.0,0.0,0.00,0.00,0.00,Tube,TBE,,,
+Sheet,0.0,0.0,0.0,0.00,0.00,0.00,Sheet,SHT,,,
+Roll,0.0,0.0,0.0,0.00,0.00,0.00,Roll,ROL,,,
+Rack,0.0,0.0,0.0,0.00,0.00,0.00,Rack,RCK,,,
+Package,0.0,0.0,0.0,0.00,0.00,0.00,Package,PKG,,,
+Pieces,0.0,0.0,0.0,0.00,0.00,0.00,Pieces,PCS,,,
+Parcel,0.0,0.0,0.0,0.00,0.00,0.00,Parcel,PCL,,,
+Gallon,0.0,0.0,0.0,0.00,0.00,0.00,Gallon,GAL,,,
+Frame,0.0,0.0,0.0,0.00,0.00,0.00,Frame,FRM,,,
+Envelope,0.0,0.0,0.0,0.00,0.00,0.00,Envelope,ENV,,,
+Cylinder,0.0,0.0,0.0,0.00,0.00,0.00,Cylinder,CYL,,,
+Cones,0.0,0.0,0.0,0.00,0.00,0.00,Cones,CON,,,
+Cabinet,0.0,0.0,0.0,0.00,0.00,0.00,Cabinet,CAB,,,
+Basket,0.0,0.0,0.0,0.00,0.00,0.00,Basket,BSK,,,
+Bottle,0.0,0.0,0.0,0.00,0.00,0.00,Bottle,BOT,,,
+Barrel,0.0,0.0,0.0,0.00,0.00,0.00,Barrel,BBL,,,
+Crate,0.0,0.0,0.0,0.00,0.00,0.00,Crate,CRT,,,
+Tank,0.0,0.0,0.0,0.00,0.00,0.00,Tank,TNK,,,
+Skid,0.0,0.0,0.0,0.00,0.00,0.00,Skid,SKD,,,
+Drum,0.0,0.0,0.0,0.00,0.00,0.00,Drum,DRM,,,
+Bag,0.0,0.0,0.0,0.00,0.00,0.00,Bag,BAG,,,
+Box,0.0,0.0,0.0,0.00,0.00,0.00,Box,BOX,,,
+Pallet,0.0,0.0,0.0,0.00,0.00,0.00,Pallet,PLT,,,
+Other,0.0,0.0,0.0,0.00,0.00,0.00,Other,   ,,,
+Container,0.0,0.0,0.0,0.00,0.00,0.00,Container,CNT,,,

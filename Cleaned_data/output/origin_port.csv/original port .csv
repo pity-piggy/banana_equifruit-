@@ -1,0 +1,17 @@
+port_id,name,country,code,air,ocean,rail,road,mail
+1,CORINTO,Nicaragua,CIO,No,Yes,No,No,No
+2,Chinandega,Nicaragua,CHI,No,Yes,No,Yes,No
+3,Guayaquil,Ecuador,GYE,Yes,Yes,No,No,Yes
+4,Hueneme,United States,HUE,No,Yes,No,No,No
+5,Nogales,United States,USOLS,No,No,No,Yes,No
+5,Nogales,United States,NOGAL,No,No,No,No,No
+5,Nogales,United States,AZ,No,No,No,Yes,No
+6,Paita,Peru,PAI,No,Yes,No,No,No
+7,Pharr,United States,TEX,No,No,No,Yes,No
+7,Pharr,United States,PHA,No,No,No,Yes,No
+8,Philadelphia,United States,PHL,Yes,Yes,No,No,Yes
+9,Port Hueneme,United States,NTD,Yes,Yes,Yes,Yes,No
+10,Port of Wilmington,United States,ILG,No,Yes,No,No,No
+11,Puerto Bolivar,Ecuador,PBO,No,Yes,No,No,No
+12,Santa Marta,Colombia,SMR,Yes,Yes,No,No,No
+13,Texas,United States,TXA,No,No,No,Yes,No
